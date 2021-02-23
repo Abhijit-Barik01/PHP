@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+<?php
+//array function
+$numberList = array(267,8765,345,'5345', 345, '<h1>Hello</h1>');
+
+print_r($numberList);
+echo "<br>";
+ //echo $numberList[5];
+$nuberlist=["Abhijit",30,50,100];
+echo $nuberlist[0]
+
+?>
+
+</body>
+</html>
